@@ -1,0 +1,31 @@
+<title>
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>My Page!</title>
+<style>
+body {
+background: rbg(58,58,58);
+}
+h1 {
+color: pink;
+}
+h2 {
+color: purple;
+}
+</style>
+</head>
+
+<body>
+<h1> My Webpage</h1>
+<h2>About Me</h2>
+<p>I like to watch netflix shows or movies on my free time, and also play with my adorable cat. I love mexican and korean food as well their desserts.
+</p>
+<button> Click here to learn more</button>
+</body>
+
+</html>
+
+<footer>
